@@ -1,0 +1,44 @@
+.gameCard{
+
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+  border: 3px inset #a0a0a0;
+}
+
+.gameCard img{
+width: 150px;
+height: 165px;
+box-sizing: border-box;
+margin: 2%;
+border-radius: 50px;
+
+}
+
+
+
+.gameCard img:hover{
+
+border: 3px solid #7f7fff;
+
+}
+
+
+.topText p{
+  padding-left: 50%;
+  float:left;
+  color: #728461;
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight: normal;
+
+}
+
+#endText{
+
+text-align: center;
+font-family: Verdana;
+font-size: 20px;
+font-weight: normal;
+
+}
